@@ -1,6 +1,6 @@
 **About Me**
 
-Hi there! 👋 I'm Xondamir Mo'minov, a 15-year-old front-end developer with a keen interest in JavaScript and React. Currently, I’m honing my skills at Alitech Website Solutions, where I work as a Front-End React Developer and React Native Mobile Developer.
+Hi there! 👋 I'm Xondamir Mo'minov, a 16-year-old front-end developer with a keen interest in JavaScript and React. Currently, I’m honing my skills at Alitech Website Solutions, where I work as a Front-End React Developer and React Native Mobile Developer.
 
 
 **What I Do**
